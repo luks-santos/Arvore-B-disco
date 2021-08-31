@@ -1,0 +1,136 @@
+# depslib dependency file v1.0
+1622123113 source:/home/lucas/Desktop/ArvoreB-LucasBatista/main.cpp
+	<iostream>
+	"tree.h"
+	"charSerial.h"
+
+1621203587 source:/home/lucas/Desktop/ArvoreB-LucasBatista/src/charSerial.cpp
+	"charSerial.h"
+	<iostream>
+
+1621207236 /home/lucas/Desktop/ArvoreB-LucasBatista/include/charSerial.h
+	<string>
+	"serializable.h"
+
+1619457489 /home/lucas/Desktop/ArvoreB-LucasBatista/include/serializable.h
+	<string>
+
+1621168379 /home/lucas/Desktop/ArvoreB-LucasBatista/include/record.h
+	<string>
+	"serializable.h"
+
+1622209046 /home/lucas/Desktop/ArvoreB-LucasBatista/include/node.h
+	<iostream>
+	<vector>
+	"serializable.h"
+
+1619784158 source:/home/lucas/Desktop/ArvoreB-LucasBatista/src/header.cpp
+	"header.h"
+
+1619736176 /home/lucas/Desktop/ArvoreB-LucasBatista/include/header.h
+	"serializable.h"
+
+1619631643 /home/lucas/Desktop/ArvoreB-LucasBatista/include/treeBdisk.h
+	"treeBdisk.h"
+	"typedFile.h"
+	"node.h"
+
+1622204528 /home/lucas/Desktop/ArvoreB-LucasBatista/include/typedFile.h
+	<fstream>
+	<type_traits>
+	"record.h"
+	"header.h"
+
+1622209277 /home/lucas/Desktop/ArvoreB-LucasBatista/include/tree.h
+	"node.h"
+	"typedFile.h"
+	"charSerial.h"
+	"record.h"
+
+1621192078 source:/home/lucas/Desktop/ArvoreB-LucasBatista1/main.cpp
+	<iostream>
+	"tree.h"
+	"charSerial.h"
+
+1621195386 /home/lucas/Desktop/ArvoreB-LucasBatista1/include/tree.h
+	"node.h"
+	"typedFile.h"
+	"charSerial.h"
+	"record.h"
+	<iostream>
+
+1621193186 /home/lucas/Desktop/ArvoreB-LucasBatista1/include/node.h
+	<iostream>
+	<vector>
+	"serializable.h"
+
+1619457489 /home/lucas/Desktop/ArvoreB-LucasBatista1/include/serializable.h
+	<string>
+
+1621177502 /home/lucas/Desktop/ArvoreB-LucasBatista1/include/typedFile.h
+	<fstream>
+	<type_traits>
+	"record.h"
+	"header.h"
+
+1621168379 /home/lucas/Desktop/ArvoreB-LucasBatista1/include/record.h
+	<string>
+	"serializable.h"
+
+1619736176 /home/lucas/Desktop/ArvoreB-LucasBatista1/include/header.h
+	"serializable.h"
+
+1621194468 /home/lucas/Desktop/ArvoreB-LucasBatista1/include/charSerial.h
+	<string>
+	"serializable.h"
+
+1621194934 source:/home/lucas/Desktop/ArvoreB-LucasBatista1/src/charSerial.cpp
+	"charSerial.h"
+	<iostream>
+
+1619784158 source:/home/lucas/Desktop/ArvoreB-LucasBatista1/src/header.cpp
+	"header.h"
+
+1630407905 source:/home/punk/treeb-in-disk/main.cpp
+	<iostream>
+	"tree.h"
+	"charSerial.h"
+
+1630408594 /home/punk/treeb-in-disk/include/tree.h
+	"node.h"
+	"typedFile.h"
+	"charSerial.h"
+	"record.h"
+
+1630408760 /home/punk/treeb-in-disk/include/node.h
+	<iostream>
+	<vector>
+	"serializable.h"
+
+1630407905 /home/punk/treeb-in-disk/include/serializable.h
+	<string>
+
+1630408620 /home/punk/treeb-in-disk/include/typedFile.h
+	<fstream>
+	<type_traits>
+	"record.h"
+	"header.h"
+
+1630407905 /home/punk/treeb-in-disk/include/record.h
+	<string>
+	"serializable.h"
+
+1630407905 /home/punk/treeb-in-disk/include/header.h
+	"serializable.h"
+
+1630407905 /home/punk/treeb-in-disk/include/charSerial.h
+	<string>
+	"serializable.h"
+
+1630407905 source:/home/punk/treeb-in-disk/src/charSerial.cpp
+	"charSerial.h"
+	<iostream>
+
+1630407905 source:/home/punk/treeb-in-disk/src/header.cpp
+	"header.h"
+
