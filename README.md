@@ -1,2 +1,10 @@
-# btree-disk
-Arvore B em disco, feita em c++ na disciplina de Técnicas de programação.
+# 🌲 Árvore B em disco
+implementação realizada em C++ para a disciplina de Técnicas de programação.
+
+
+## 📋  Features
+- Inserir
+- Remover
+- Buscar
+- Imprimir 
+- Executar Casos de Teste
